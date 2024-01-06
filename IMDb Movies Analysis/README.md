@@ -6,7 +6,7 @@
 
 ## Data Source
 
-The dataset used in this project was sourced from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)) and contains information on the top 1000 movies as rated on IMDb, including details like titles, directors, cast, genres, IMDb ratings, and box office gross revenue.
+The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) and contains information on the top 1000 movies as rated on IMDb, including details like titles, directors, cast, genres, IMDb ratings, and box office gross revenue.
 
 ## Key Insights & Findings
 
